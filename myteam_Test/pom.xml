@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.test</groupId>
   <artifactId>flow</artifactId>
-  <version>1.0.12</version>
+  <version>1.0.19</version>
   <name>Test</name>
   <description>Test</description>
   <distributionManagement>
